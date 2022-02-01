@@ -4,7 +4,7 @@ Sai krishna Gadde
 ###### subhani biryani's
  This place is located in **Guntur** in **Andhra pradesh** district has lot variety of biryanis it has many branches located in Guntur 
  ---------------------------------------------------------------------------------------------------------------------------------------------------
- #### Vijayawada Airport is closest airport to my food location
+ # Vijayawada Airport is closest airport to my food location
  From subhani biryani hotel the Guntur bus stand is 10 min drive
 
 take the bus of number 428
