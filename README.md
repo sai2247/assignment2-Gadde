@@ -20,3 +20,16 @@ take uber and go to vijayawada bus stand , there you can find direct cabs and au
 * Paneer Biryani
 
 [Know me](https://github.com/sai2247/assignment2-Gadde/blob/main/AboutMe.md#sai-krishna-gadde)
+
+-----------------------------------------------
+
+# Sports
+
+volleyball, Badminton, Cricket and Tennis are the sports which I would like to recommend to anyone, who is intrested in some physical activity.
+
+|  Name       |  Location      | Amount|
+|-------------|----------------|-------|
+|  volleyball | campus ground  |  $50  |
+|  Badminton  | Recreation     |  $35  |
+|  Cricket    | Hughes         |  $50  |
+|   Tennis    |  Recreation    |  $55  |
