@@ -12,6 +12,7 @@ take the bus of number 428
 get down the bus at guntur bustand
 
 take uber and go to subhani biryani point, so you can find delicious items there
+
 * Chicken Biryani
 * Mutton Biryani
 * Shrimp Biryani
