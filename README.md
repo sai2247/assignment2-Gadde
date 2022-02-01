@@ -33,3 +33,11 @@ volleyball, Badminton, Cricket and Tennis are the sports which I would like to r
 |  Badminton  | Recreation     |  $35  |
 |  Cricket    | Hughes         |  $50  |
 |   Tennis    |  Recreation    |  $55  |
+
+----------------------------------------------------
+
+# Quotes
+
+> "We are such stuff as dreams are made on, and our one little life is rounded with a sleep." - *William Shakespeare*
+
+>  But soft! What light through yonder window breaks? It is the east, and Juliet is the sun." -*William Shakespeare*
